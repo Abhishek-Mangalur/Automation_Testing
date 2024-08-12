@@ -1,18 +1,18 @@
-Test Cases,Inputs,Expected Output
-TC-1,Username & Password,Login Failed due to invalid login credential
-TC-2,Username & Password,Login Successful..!
-TC-3,Bengaluru,Bengaluru result searched
-TC-4,Bengaluru,Shows the answers for Bengaluru related question
-TC-5,Bengaluru,Shows the topics related to Bengaluru
-TC-6,What is the current temperature of Bengaluru?,Add question/poster
-TC-7,Pressed follow button,Switch to followings
-TC-8,Presse the upvote & downvote button,Upvote & Downvote operations performed
-TC-9,Comment,Comment to the question
-TC-10,Edit comment,Edit comment & repost
-TC-11,Press delete button,Comment Deleted Successfully
-TC-12,Press answer button,Switch to answer section
-TC-13,Answering,Answer the question & follow
-TC-14,Report,Report the post
-TC-15,Open spaces,Switch to Spaces
-TC-16,Press notification button,Switch to Notifications
-TC-17,Press Logout button,Logout Successful..!
+Test Cases,Inputs,Expected Output,Actual Output,Status
+TC-1,Username & Password,Login Failed due to invalid login credential,Login Failed due to invalid login credential,PASS
+TC-2,Username & Password,Login Successful..!,Login Successful..!,PASS
+TC-3,Bengaluru,Bengaluru result searched,Bengaluru result searched,PASS
+TC-4,Bengaluru,Shows the answers for Bengaluru related question,Shows the answers for Bengaluru related question,PASS
+TC-5,Bengaluru,Shows the topics related to Bengaluru,Shows the topics related to Bengaluru,PASS
+TC-6,What is the current temperature of Bengaluru?,Add question/poster,Add question/poster,PASS
+TC-7,Pressed follow button,Switch to followings,Switch to followings,PASS
+TC-8,Presse the upvote & downvote button,Upvote & Downvote operations performed,Upvote & Downvote operations performed,PASS
+TC-9,Comment,Comment to the question,Comment to the question,PASS
+TC-10,Edit comment,Edit comment & repost,Edit comment & repost,PASS
+TC-11,Press delete button,Comment Deleted Successfully,Comment Deleted Successfully,PASS
+TC-12,Press answer button,Switch to answer section,Switch to answer section,PASS
+TC-13,Answering,Answer the question & follow,Answer the question & follow,PASS
+TC-14,Report,Report the post,Report the post,PASS
+TC-15,Open spaces,Switch to Spaces,Switch to Spaces,PASS
+TC-16,Press notification button,Switch to Notifications,Switch to Notifications,PASS
+TC-17,Press Logout button,Logout Successful..!,Logout Successful..!,PASS
