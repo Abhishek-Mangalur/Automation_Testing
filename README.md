@@ -1,5 +1,5 @@
 <h1>This Project is based on Python Programming Language</h1>
-<h3>To run this project you need to have the "Selenium tool" for installing the selenium use below command</h3>
+<h3>To run this project you need to have the "Selenium tool", for installing the selenium use below command</h3>
 <h3>pip install selenium</h3><br>
 
 <h4>Packages need to install</h4>
